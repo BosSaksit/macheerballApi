@@ -1,8 +1,4 @@
-﻿<<<<<<< HEAD
 ﻿using System;
-=======
-using System;
->>>>>>> 1fca5cb7b12c1e2607598831d78de57765459c64
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -12,14 +8,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-<<<<<<< HEAD
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
-=======
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
->>>>>>> 1fca5cb7b12c1e2607598831d78de57765459c64
 
 namespace macheerballApi
 {
