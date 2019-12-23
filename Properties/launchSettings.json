@@ -1,30 +1,18 @@
 ﻿{
   "$schema": "http://json.schemastore.org/launchsettings.json",
   "iisSettings": {
-<<<<<<< HEAD
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
       "applicationUrl": "http://localhost:52417",
       "sslPort": 44375
-=======
-    "windowsAuthentication": false,
-    "anonymousAuthentication": true,
-    "iisExpress": {
-      "applicationUrl": "http://localhost:41360",
-      "sslPort": 44382
->>>>>>> 1fca5cb7b12c1e2607598831d78de57765459c64
     }
   },
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-<<<<<<< HEAD
       "launchUrl": "api/values",
-=======
-      "launchUrl": "weatherforecast",
->>>>>>> 1fca5cb7b12c1e2607598831d78de57765459c64
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -32,19 +20,11 @@
     "macheerballApi": {
       "commandName": "Project",
       "launchBrowser": true,
-<<<<<<< HEAD
       "launchUrl": "api/values",
-=======
-      "launchUrl": "weatherforecast",
->>>>>>> 1fca5cb7b12c1e2607598831d78de57765459c64
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 1fca5cb7b12c1e2607598831d78de57765459c64
